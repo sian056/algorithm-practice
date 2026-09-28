@@ -1,11 +1,8 @@
 def solution(nums):
     answer = 0
-    number = len(nums)
+    number = len(nums) // 2
     kinds = len(set(nums))
     
-    if number//2 > kinds:
-        answer = kinds
-    else:
-        answer = number//2
+    answer = min(number, kinds)
     
     return answer
