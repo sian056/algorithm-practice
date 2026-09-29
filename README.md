@@ -9,6 +9,7 @@
 ||340199|[지폐 접기]()|
 |26-09-28|1845|[폰켓몬](https://github.com/sian35/algorithm-practice/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/1/1845.%E2%80%85%ED%8F%B0%EC%BC%93%EB%AA%AC)|
 ||135808|[과일 장수](https://github.com/sian35/algorithm-practice/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/1/135808.%E2%80%85%EA%B3%BC%EC%9D%BC%E2%80%85%EC%9E%A5%EC%88%98)|
+||68935|[3진법 뒤집기](https://github.com/sian35/algorithm-practice/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/1/68935.%E2%80%853%EC%A7%84%EB%B2%95%E2%80%85%EB%92%A4%EC%A7%91%EA%B8%B0)|
 
 ## Level 2
 |No.|Title|File Name|Date|
