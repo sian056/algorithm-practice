@@ -2,14 +2,20 @@
 
 ## Level 1
 
-|Date|No.|Title|문제 출처|
-|:---:|:---|:---|:---|
-|26-09-19|12982|[예산]()|
-||131705|[삼총사]()|
-||340199|[지폐 접기]()|
-|26-09-28|1845|[폰켓몬](https://github.com/sian35/algorithm-practice/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/1/1845.%E2%80%85%ED%8F%B0%EC%BC%93%EB%AA%AC)|
-||135808|[과일 장수](https://github.com/sian35/algorithm-practice/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/1/135808.%E2%80%85%EA%B3%BC%EC%9D%BC%E2%80%85%EC%9E%A5%EC%88%98)|
-||68935|[3진법 뒤집기](https://github.com/sian35/algorithm-practice/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/1/68935.%E2%80%853%EC%A7%84%EB%B2%95%E2%80%85%EB%92%A4%EC%A7%91%EA%B8%B0)|
+|Date|No.|Title|문제 출처|레벨|
+|:---:|:---|:---|:---|:---:|
+|26-09-19|12982|[예산](https://github.com/sian056/algorithm-practice/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/1/12982.%E2%80%85%EC%98%88%EC%82%B0)|lv.1|
+||131705|[삼총사](https://github.com/sian056/algorithm-practice/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/1/131705.%E2%80%85%EC%82%BC%EC%B4%9D%EC%82%AC)|lv.1|
+||340199|[지폐 접기](https://github.com/sian056/algorithm-practice/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/1/340199.%E2%80%85%EF%BC%BBPCCE%E2%80%85%EA%B8%B0%EC%B6%9C%EB%AC%B8%EC%A0%9C%EF%BC%BD%E2%80%859%EB%B2%88%E2%80%85%EF%BC%8F%E2%80%85%EC%A7%80%ED%8F%90%E2%80%85%EC%A0%91%EA%B8%B0)|lv.1|
+|26-09-28|1845|[폰켓몬](https://github.com/sian35/algorithm-practice/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/1/1845.%E2%80%85%ED%8F%B0%EC%BC%93%EB%AA%AC)|lv.1|
+||135808|[과일 장수](https://github.com/sian35/algorithm-practice/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/1/135808.%E2%80%85%EA%B3%BC%EC%9D%BC%E2%80%85%EC%9E%A5%EC%88%98)|lv.1|
+||68935|[3진법 뒤집기](https://github.com/sian35/algorithm-practice/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/1/68935.%E2%80%853%EC%A7%84%EB%B2%95%E2%80%85%EB%92%A4%EC%A7%91%EA%B8%B0)|lv.1|
+|26-10-06|87946|[피로도]()|lv.2|
+||12906|[같은 숫자는 싫어]()|lv.1|
+||134240|[푸드 파이트 대회]()|lv.1|
+
+
+
 
 ## Level 2
 |No.|Title|File Name|Date|
