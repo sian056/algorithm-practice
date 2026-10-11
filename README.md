@@ -13,7 +13,7 @@
 |26-10-06|87946|[피로도](https://github.com/sian056/algorithm-practice/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/2/87946.%E2%80%85%ED%94%BC%EB%A1%9C%EB%8F%84)|lv.2|
 ||12906|[같은 숫자는 싫어](https://github.com/sian056/algorithm-practice/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/1/12906.%E2%80%85%EA%B0%99%EC%9D%80%E2%80%85%EC%88%AB%EC%9E%90%EB%8A%94%E2%80%85%EC%8B%AB%EC%96%B4)|lv.1|
 ||134240|[푸드 파이트 대회](https://github.com/sian056/algorithm-practice/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/1/134240.%E2%80%85%ED%91%B8%EB%93%9C%E2%80%85%ED%8C%8C%EC%9D%B4%ED%8A%B8%E2%80%85%EB%8C%80%ED%9A%8C)|lv.1|
-
+|26-10-11|12946|[하노이의 탑](https://github.com/sian056/algorithm-practice/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/2/12946.%E2%80%85%ED%95%98%EB%85%B8%EC%9D%B4%EC%9D%98%E2%80%85%ED%83%91)|lv.2|
 
 
 
