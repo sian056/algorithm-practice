@@ -15,7 +15,7 @@
 ||134240|[푸드 파이트 대회](https://github.com/sian056/algorithm-practice/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/1/134240.%E2%80%85%ED%91%B8%EB%93%9C%E2%80%85%ED%8C%8C%EC%9D%B4%ED%8A%B8%E2%80%85%EB%8C%80%ED%9A%8C)|lv.1|
 |26-10-11|12946|[하노이의 탑](https://github.com/sian056/algorithm-practice/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/2/12946.%E2%80%85%ED%95%98%EB%85%B8%EC%9D%B4%EC%9D%98%E2%80%85%ED%83%91)|lv.2|
 |26-10-18|12973|[짝지어 제거하기](https://github.com/sian056/algorithm-practice/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/2/12973.%E2%80%85%EC%A7%9D%EC%A7%80%EC%96%B4%E2%80%85%EC%A0%9C%EA%B1%B0%ED%95%98%EA%B8%B0)|lv.2|
-
+||64061|[크레인 인형뽑기 게임](https://github.com/sian056/algorithm-practice/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/1/64061.%E2%80%85%ED%81%AC%EB%A0%88%EC%9D%B8%E2%80%85%EC%9D%B8%ED%98%95%EB%BD%91%EA%B8%B0%E2%80%85%EA%B2%8C%EC%9E%84)|lv.1|정답률 55%|
 
 
 ## Level 2
