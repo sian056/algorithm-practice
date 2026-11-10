@@ -9,6 +9,7 @@ def solution(progresses, speeds):
         days.append((left + speeds[i] - 1) // speeds[i])
     
     q = deque(days)
+    
     while q:
         standard = q.popleft()
         count = 1
